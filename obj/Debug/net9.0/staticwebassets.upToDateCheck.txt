@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\index.js
+wwwroot\style.css
+C:\Users\mdit22\Documents\GitHub\Demo2\Demo2\wwwroot\index.js
+C:\Users\mdit22\Documents\GitHub\Demo2\Demo2\wwwroot\index.html
+C:\Users\mdit22\Documents\GitHub\Demo2\Demo2\wwwroot\style.css

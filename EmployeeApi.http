@@ -1,0 +1,6 @@
+@EmployeeApi_HostAddress = http://192.168.9.23:5220
+
+GET {{EmployeeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
